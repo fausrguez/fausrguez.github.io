@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Sam Ibster",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/1.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Bob Sleven",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/2.jpg",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Rick Stark",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/3.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Silvie Hester",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/4.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Bob Sleven",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/2.jpg",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Rick Stark",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/3.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Silvie Hester",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/4.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Bob Sleven",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/2.jpg",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Rick Stark",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/3.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Silvie Hester",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/4.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Rick Stark",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/3.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Silvie Hester",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/4.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Bob Sleven",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/2.jpg",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Rick Stark",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/3.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Silvie Hester",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/4.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Bob Sleven",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/2.jpg",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Rick Stark",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/3.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    },
+    {
+        "name": "Silvie Hester",
+        "position": "Web Designer",
+        "img": "../assets/pictures/people/4.png",
+        "review": "nterdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus sed lectus a mauris facilisis porta vel a nunc. Fusce sit amet neque volutpat, pretium risus id, placerat libero. Suspendisse ac condimentum lectus."
+    }
+]

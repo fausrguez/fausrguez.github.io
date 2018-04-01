@@ -1,0 +1,49 @@
+[{
+        "url": "../assets/pictures/gallery/1.jpg",
+        "alt": "Basic Stationery",
+        "title": "Basic Stationery",
+        "href": "#",
+        "category": "photography",
+        "likes": "34"
+    },
+    {
+        "url": "../assets/pictures/gallery/2.jpg",
+        "alt": "Sharing Card",
+        "title": "Sharing Card",
+        "href": "#",
+        "category": "graphic design",
+        "likes": "646"
+    },
+    {
+        "url": "../assets/pictures/gallery/3.jpg",
+        "alt": "Explaining the Ios Block",
+        "title": "Explaining the Ios Block",
+        "href": "#",
+        "category": "web design",
+        "likes": "12"
+    },
+    {
+        "url": "../assets/pictures/gallery/4.jpg",
+        "alt": "Single Cup",
+        "title": "Single Cup",
+        "href": "#",
+        "category": "wordpress",
+        "likes": "76"
+    },
+    {
+        "url": "../assets/pictures/gallery/5.jpg",
+        "alt": "Shark",
+        "title": "Shark",
+        "href": "#",
+        "category": "graphic design",
+        "likes": "57"
+    },
+    {
+        "url": "../assets/pictures/gallery/6.jpg",
+        "alt": "Paper Hot Cup",
+        "title": "Paper Hot Cup",
+        "href": "#",
+        "category": "photography",
+        "likes": "2"
+    }
+]
